@@ -1,0 +1,31 @@
+{
+    "version": "0.11",
+    "name": "Calculadora",
+    "description": "Calculadora",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/img/icons/hello-16.png",
+        "48": "/img/icons/mortar-48.png",
+        "128": "/img/icons/mortar-128.png"
+    },
+    "developer": {
+        "name": "Miguel",
+        "url": "http://miduga.es"
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "es": {
+            "description": "Ejemplo de calculadora",
+            "developer": {
+                "url": "http://miduga.es"
+            }
+        },
+        "it": {
+            "description": "Example of calculator",
+            "developer": {
+                "url": "http://miduga.es"
+            }
+        }
+    },
+    "default_locale": "es"
+}
